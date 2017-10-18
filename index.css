@@ -1,0 +1,20 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: tan;
+}
+
+
+h1 {
+  color: maroon;
+  text-align: center;
+  font-size: 70px;
+}
+
+#picture {
+  padding-left: 180px;
+}
+
+#logo {
+  float: right;
+  padding-right: 180px;
+}
